@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RoydonRocks
+- 💻 I am a data engineer in the great white north of the United States.
+- 👀 I’m interested in building distributed systems and working with Docker, Python, Java and JavaScript to work with data in both SQL and NoSQL databases.
+- 🌱 I’m currently working on finding open source projects to contribute to and become a more active member of the open source comunitee.
